@@ -124,18 +124,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Graph.h" />
-    <ClInclude Include="..\..\merge_two.h" />
-    <ClInclude Include="..\..\TCAM.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Graph.cpp" />
-    <ClCompile Include="..\..\main.cpp" />
-    <ClCompile Include="..\..\merge_two.cpp" />
-    <ClCompile Include="..\..\TCAM.cpp" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Graph.h" />
+    <ClInclude Include="..\merge_two.h" />
+    <ClInclude Include="..\TCAM.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Graph.cpp" />
+    <ClCompile Include="..\main.cpp" />
+    <ClCompile Include="..\merge_two.cpp" />
+    <ClCompile Include="..\TCAM.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
