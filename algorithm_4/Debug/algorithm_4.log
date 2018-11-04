@@ -1,0 +1,28 @@
+﻿生成启动时间为 2018/2/5 22:14:09。
+     1>项目“C:\Users\Yingwan\OneDrive\one共享\SDN\TCAM相关资料\无间断更新TCAM代码\C_code\算法4\algorithm_4\algorithm_4\algorithm_4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\123\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\merge_two.cpp
+         merge_two.cpp
+     1>c:\users\yingwan\onedrive\one共享\sdn\tcam相关资料\无间断更新tcam代码\c_code\算法4\merge_two.cpp(18): warning C4018: “<=”: 有符号/无符号不匹配
+     1>c:\users\yingwan\onedrive\one共享\sdn\tcam相关资料\无间断更新tcam代码\c_code\算法4\merge_two.cpp(39): warning C4018: “<=”: 有符号/无符号不匹配
+     1>c:\users\yingwan\onedrive\one共享\sdn\tcam相关资料\无间断更新tcam代码\c_code\算法4\merge_two.cpp(50): warning C4018: “<=”: 有符号/无符号不匹配
+     1>c:\users\yingwan\onedrive\one共享\sdn\tcam相关资料\无间断更新tcam代码\c_code\算法4\merge_two.cpp(208): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\yingwan\onedrive\one共享\sdn\tcam相关资料\无间断更新tcam代码\c_code\算法4\merge_two.cpp(217): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\yingwan\onedrive\one共享\sdn\tcam相关资料\无间断更新tcam代码\c_code\算法4\merge_two.cpp(226): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\yingwan\onedrive\one共享\sdn\tcam相关资料\无间断更新tcam代码\c_code\算法4\merge_two.cpp(235): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\yingwan\onedrive\one共享\sdn\tcam相关资料\无间断更新tcam代码\c_code\算法4\merge_two.cpp(394): warning C4101: “from”: 未引用的局部变量
+     1>c:\users\yingwan\onedrive\one共享\sdn\tcam相关资料\无间断更新tcam代码\c_code\算法4\merge_two.cpp(394): warning C4101: “to”: 未引用的局部变量
+     1>c:\users\yingwan\onedrive\one共享\sdn\tcam相关资料\无间断更新tcam代码\c_code\算法4\merge_two.cpp(534): warning C4018: “<=”: 有符号/无符号不匹配
+     1>c:\users\yingwan\onedrive\one共享\sdn\tcam相关资料\无间断更新tcam代码\c_code\算法4\merge_two.cpp(535): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\yingwan\onedrive\one共享\sdn\tcam相关资料\无间断更新tcam代码\c_code\算法4\merge_two.cpp(548): warning C4018: “>”: 有符号/无符号不匹配
+       Link:
+         D:\123\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Yingwan\OneDrive\one共享\SDN\TCAM相关资料\无间断更新TCAM代码\C_code\算法4\algorithm_4\Debug\algorithm_4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Yingwan\OneDrive\one共享\SDN\TCAM相关资料\无间断更新TCAM代码\C_code\算法4\algorithm_4\Debug\algorithm_4.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Yingwan\OneDrive\one共享\SDN\TCAM相关资料\无间断更新TCAM代码\C_code\算法4\algorithm_4\Debug\algorithm_4.lib" /MACHINE:X86 Debug\Graph.obj
+         Debug\main.obj
+         Debug\merge_two.obj
+         Debug\TCAM.obj
+         algorithm_4.vcxproj -> C:\Users\Yingwan\OneDrive\one共享\SDN\TCAM相关资料\无间断更新TCAM代码\C_code\算法4\algorithm_4\Debug\algorithm_4.exe
+     1>已完成生成项目“C:\Users\Yingwan\OneDrive\one共享\SDN\TCAM相关资料\无间断更新TCAM代码\C_code\算法4\algorithm_4\algorithm_4\algorithm_4.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.07
